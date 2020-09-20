@@ -1,4 +1,7 @@
 # Array
+
+Github Page Link: https://rodrigueslesterlml.github.io/Array/.
+
 Contents:
 1. WAP to find whether the array of integers contains aduplicate number             	ARRAY DUP.C
 	
