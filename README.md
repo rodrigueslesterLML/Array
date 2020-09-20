@@ -13,3 +13,5 @@ Contents:
 6. WAP to read and display n numbers using an array.
 
 7. Write a program to merge two arrays.
+
+8. Write a program to delete a number from a given location in an array.
